@@ -10,7 +10,7 @@ A lightweight React project created to revisit core concepts including component
 
 ## Getting Started
 
-1. **CLone the repository**
+1. **Clone the repository**
     - git clone https://github.com/your-username/react-refresher.git
     - cd react-refresher
 
